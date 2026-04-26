@@ -1,0 +1,5 @@
+Name:Path:Description:Category:Scope
+SI-GG-Enfermeria:OU=Enfermeria,DC=HospitaFrancescBorjaDeGandia,DC=mylocal:Grupo global y de seguridad del Dep.Enfermeria:Security:Global
+SI-GG-Alergologia:OU=Alergologia,DC=HospitaFrancescBorjaDeGandia,DC=mylocal:Grupo global y de seguridad del Dep.Alergologia:Security:Global
+SI-GG-Informatica:OU=Informatica,DC=HospitaFrancescBorjaDeGandia,DC=mylocal:Grupo global y de seguridad del Dep.Informatica:Security:Global
+SI-GG-CyP:OU=CyP,DC=HospitaFrancescBorjaDeGandia,DC=mylocal:Grupo global y de seguridad del Dep.Comunicacion y Prensa:Security:Global
